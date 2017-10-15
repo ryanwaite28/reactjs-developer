@@ -18,3 +18,6 @@ This was a fun journey! I started this program in July 2017. I honestly think th
 * P1: React Fundamentals - https://github.com/ryanwaite28/react-myreads
 * P2: React and Redux - https://github.com/ryanwaite28/react-readable
 * P3: React Native - https://github.com/ryanwaite28/react_native-flashcards
+
+# Ryan M. Waite
+### Web/Mobile Developer & Programmer
